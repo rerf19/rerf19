@@ -26,6 +26,6 @@
 
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rerf19&show_icons=true&theme=slateorange&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rerf19&layout=compact&theme=slateorange" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rerf19&layout=compact&theme=slateorange&hide_border=true" />
 </p>
 <br>
