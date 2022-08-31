@@ -22,7 +22,7 @@
 
 
 
-<h3>Statistical Data :-</h3>
+<h3>Statistical Data :</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=rerf19&show_icons=true&locale=en&bg_color=0d1117&text_color=ff8300&layout=compact"
     alt="rerf19" 
