@@ -2,6 +2,7 @@
 
 <h1 align="center">Hiiii! I'm Rodrigo</h1>
 <h3 align="center">I'm a 3rd Year Computer Science Student and Passionate About Technology</h3>
+<h3 align="center">Computer Science, Lancaster University</h3>
 
 - 🔭 I’m currently working on **Third Year Project**
 
@@ -25,7 +26,7 @@
 <h3>Statistical Data :</h3>
 
 <p align="left">
-  <img width="49.5%" hight="100px" src="https://github-readme-stats.vercel.app/api?username=rerf19&show_icons=true&theme=slateorange&hide_border=true" />
-  <img width="49.5%" hight="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rerf19&layout=compact&theme=slateorange&hide_border=true" />
+  <img width="60%"  src="https://github-readme-stats.vercel.app/api?username=rerf19&show_icons=true&theme=slateorange&hide_border=true" />
+  <img width="60%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rerf19&layout=compact&theme=slateorange&hide_border=true" />
 </p>
 <br>
