@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hiiii!, I'm Rodrigo</h1>
+<h1 align="center">Hiiii! I'm Rodrigo</h1>
 <h3 align="center">I'm a 3rd Year Computer Science Student and Passionate About Technology</h3>
 
 - 🔭 I’m currently working on **Third Year Project**
