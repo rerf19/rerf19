@@ -25,8 +25,8 @@
 <h3>Statistical Data :</h3>
 
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rerf19&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?user=rerf19&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rerf19&show_icons=true&theme=highcontrast&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?user=rerf19&theme=highcontrast&hide_border=true" />
   </a>
 </p>
 <br>
