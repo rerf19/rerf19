@@ -23,16 +23,10 @@
 
 
 <h3>Statistical Data :</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=rerf19&show_icons=true&locale=en&bg_color=0d1117&text_color=ff8300&layout=compact"
-    alt="rerf19" 
-    bg_color=#ff8300/></p>
 
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rerf19&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rerf19&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
 <br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rerf19&show_icons=true&locale=en&bg_color=0d1117&text_color=ff8300&repo=convoychat"
-    alt="rerf19" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rerf19&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="rerf19" /></p>
