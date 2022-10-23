@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Terraform and Cloud Technologies**
 
-- 📫 How to reach me **rodrigo.e09@hotmail.com**
+- 📫 How to reach me: **<a href="https://linkedin.com/in/rodrigoferreira019" target="blank">LinkedIn</a>**
 
-- ⚡ Fun fact **My favorite sport is Volleyball**
+- ⚡ Fun fact: **I love Volleyball**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
