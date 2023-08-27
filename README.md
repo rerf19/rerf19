@@ -1,12 +1,12 @@
 
 
 <h1 align="center">Hiiii!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm Rodrigo</h1>
-<h3 align="center">I'm a 3rd Year Computer Science Student and Passionate About Technology</h3>
+<h3 align="center">I'm a Gradute Computer Science Student and Passionate About Technology</h3>
 <h3 align="center">Computer Science, Lancaster University</h3>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **Portfolio**, **Personal Projects** and **LeetCode Challenges**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **in deep Data Structures and Algorithms (DSA)**
 
 - 📫 How to reach me: **<a href="https://linkedin.com/in/rodrigoferreira019" target="blank">LinkedIn</a>**
 
