@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hiiii!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm Ron</h1>
+<h1 align="center">Hiiii!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm Rodrigo</h1>
 <h3 align="center">I'm a Gradute Computer Science Student and Passionate About Technology</h3>
 <h3 align="center">Computer Science, Lancaster University</h3>
 
