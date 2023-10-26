@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **in deep Data Structures and Algorithms (DSA)**
 
-- 📫 How to reach me: **<a href="https://linkedin.com/in/rodrigoferreira019" target="blank">LinkedIn</a>**
+- 📫 How to reach me: **<a href="https://linkedin.com/in/rodrigo-ferreira9" target="blank">LinkedIn</a>**
 
 - ⚡ Fun fact: **I love Volleyball**
 
