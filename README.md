@@ -1,16 +1,14 @@
-
-
 <h1 align="center">Hiiii!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm Rodrigo</h1>
 <h3 align="center">I'm a Gradute Computer Science Student and Passionate About Technology</h3>
 <h3 align="center">Computer Science, Lancaster University</h3>
 
-- 🔭 I’m currently working on **Portfolio**, **Personal Projects** and **LeetCode Challenges**
+-   🔭 I’m currently working on **Portfolio**, **Personal Projects** and **LeetCode Challenges**
 
-- 🌱 I’m currently learning **in deep Data Structures and Algorithms (DSA)**
+-   🌱 I’m currently learning **in deep Data Structures and Algorithms (DSA)**
 
-- 📫 How to reach me: **<a href="https://linkedin.com/in/rodrigo-ferreira9" target="blank">LinkedIn</a>**
+-   📫 How to reach me: **<a href="https://linkedin.com/in/rodrigo-ferreira9" target="blank">LinkedIn</a>**
 
-- ⚡ Fun fact: **I love Volleyball**
+-   ⚡ Fun fact: **I love Volleyball**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
@@ -48,16 +46,14 @@
   <!-- Express -->
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
   <!-- BootStrap -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 
 </p>
 
-
-
 <h2> Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 
-<p align="left">
-  <img width="60%"  src="https://github-readme-stats.vercel.app/api?username=rerf19&show_icons=true&theme=slateorange&hide_border=true" />
-  <img width="60%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rerf19&layout=compact&theme=slateorange&hide_border=true" />
+<p>
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=rerf19&show_icons=true&theme=slateorange&hide_border=true" />
+  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rerf19&layout=compact&theme=slateorange&hide_border=true" />
 </p>
 <br>
