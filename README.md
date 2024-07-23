@@ -1,10 +1,10 @@
 <h1 align="center">Hiiii!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm Rodrigo</h1>
-<h3 align="center">I'm a Gradute Computer Science Student and Passionate About Technology</h3>
-<h3 align="center">Computer Science, Lancaster University</h3>
+<h3 align="center">I'm a Back End Developer</h3>
+<h3 align="center">Numiko</h3>
 
--   🔭 I’m currently working on **Portfolio**, **Personal Projects** and **LeetCode Challenges**
+-   🔭 I’m currently working on **Personal Projects** and **LeetCode Challenges** (when I have time from my full-time job)
 
--   🌱 I’m currently learning **in deep Data Structures and Algorithms (DSA)**
+-   🌱 I’m currently learning **PHP and Drupal**
 
 -   📫 How to reach me: **<a href="https://linkedin.com/in/rodrigo-ferreira9" target="blank">LinkedIn</a>**
 
