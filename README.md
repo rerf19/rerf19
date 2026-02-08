@@ -49,11 +49,3 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 
 </p>
-
-<h2> Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
-
-<p>
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=rerf19&show_icons=true&theme=slateorange&hide_border=true" />
-  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rerf19&layout=compact&theme=slateorange&hide_border=true" />
-</p>
-<br>
